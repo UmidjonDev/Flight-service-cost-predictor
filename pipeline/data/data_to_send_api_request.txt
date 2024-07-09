@@ -1,0 +1,13 @@
+{
+    "id" : 1,
+    "airline": "Vistara",
+    "flight": "UK",
+    "source_city": "Bangalore",
+    "departure_time": "Early_Morning",
+    "stops": "one",
+    "arrival_time": "Night",
+    "destination_city": "Mumbai",
+    "travel_class": "Economy",
+    "duration": 14.25,
+    "days_left": 21
+}
